@@ -1,3 +1,5 @@
+# -*-coding:cp949
+#http://learnpythonthehardway.org/book/ex14.html
 from sys import argv
 
 script, user_name = argv
